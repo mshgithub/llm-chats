@@ -1,9 +1,7 @@
 # Deepseek Chat About Developing Medical Coding API for Healthcare
 
 ## Prompt
-```
-I'm interested in creating an API-based solution that is comprised of a custom LLM trained to read medical notes and generate the appropriate medical coding from the notes. The API should accept a text note field and return the appropriate medical codes from any and all of the current coding systems. (e.g., CPT, LOINC, SNOMED, etc.) The API should be lightweight and web accessible. Please let me know who I will be competing with in this field, how they have approached this domain, and what you recommend I do to get started and become competitive quickly.
-```
+```I'm interested in creating an API-based solution that is comprised of a custom LLM trained to read medical notes and generate the appropriate medical coding from the notes. The API should accept a text note field and return the appropriate medical codes from any and all of the current coding systems. (e.g., CPT, LOINC, SNOMED, etc.) The API should be lightweight and web accessible. Please let me know who I will be competing with in this field, how they have approached this domain, and what you recommend I do to get started and become competitive quickly.```
 
 ## Response
 Based on an analysis of current market players, technical approaches, and implementation strategies, here's a structured guide to developing your medical coding API solution:
