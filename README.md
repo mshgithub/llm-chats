@@ -3,4 +3,5 @@ A place to publish the LLM chats I want to retain and the markdown files I use t
 
 ## Strucure
 /Chats: This is where you will find saved chats. They are organized by topic.
+
 /prompts: This is where you will saved prompts. They are organized by project and task.
